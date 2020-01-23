@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter SolidState', // <title>
-  manifestName: 'SolidState',
+  siteTitle: 'Reiki Natural RN', // <title>
+  manifestName: 'Reiki Natural',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: 'reikinaturalrn.com',
   manifestBackgroundColor: '#663399',
