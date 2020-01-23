@@ -15,7 +15,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:info@reikinatural.com',
+      url: 'mailto:info@reikinaturalrn.com',
     },
   ],
   phone: '(503) 502-7347',
