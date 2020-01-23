@@ -8,7 +8,7 @@ export default function Footer() {
         <p>
           Please contact us to schedule an appointment or to inquire more about Reiki and services available.
         </p>
-        <form method="post" action="thank-you" data-netlify-recaptcha="true" data-netlify="true">
+        <form method="post" action="https://reikinaturalrn.com/" data-netlify-recaptcha="true" data-netlify="true">
           <div className="fields">
             <div className="field">
               <label htmlFor="name">Name</label>
