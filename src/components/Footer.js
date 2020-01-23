@@ -8,22 +8,29 @@ export default function Footer() {
         <p>
           Please contact us to schedule an appointment or to inquire more about Reiki and services available.
         </p>
-        <form action="post" data-netlify="true">
-  <p>
-    <label>Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <div data-netlify-recaptcha="true"></div>
-  <p>
-    <button type="submit" >Send Message</button>
-  </p>
-</form>
-
+        <form method="post" action="/#" data-netlify-recaptcha="true" data-netlify="true">
+          <div className="fields">
+            <div className="field">
+              <label htmlFor="name">Name</label>
+              <input type="text" name="name" id="name" />
+            </div>
+            <div className="field">
+              <label htmlFor="email">Email</label>
+              <input type="email" name="email" id="email" />
+            </div>
+            
+            <div className="field">
+              <label htmlFor="message">Message</label>
+              <textarea name="message" id="message" rows="4"></textarea>
+            </div>
+            <div data-netlify-recaptcha="true"></div>
+          </div>
+          <ul className="actions">
+            <li>
+              <input type="submit" value="Send Message" />
+            </li>
+          </ul>
+        </form>
         <ul className="contact">
           <li className="fa-home">{config.address}</li>
 
