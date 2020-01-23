@@ -8,29 +8,21 @@ export default function Footer() {
         <p>
           Please contact us to schedule an appointment or to inquire more about Reiki and services available.
         </p>
-        <form method="post" action="https://reikinaturalrn.com/" data-netlify-recaptcha="true" data-netlify="true">
-          <div className="fields">
-            <div className="field">
-              <label htmlFor="name">Name</label>
-              <input type="text" name="name" id="name" />
-            </div>
-            <div className="field">
-              <label htmlFor="email">Email</label>
-              <input type="email" name="email" id="email" />
-            </div>
-            
-            <div className="field">
-              <label htmlFor="message">Message</label>
-              <textarea name="message" id="message" rows="4"></textarea>
-            </div>
-            <div data-netlify-recaptcha="true"></div>
-          </div>
-          <ul className="actions">
-            <li>
-              <input type="submit" value="Send Message" />
-            </li>
-          </ul>
-        </form>
+        <form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+
         <ul className="contact">
           <li className="fa-home">{config.address}</li>
 
