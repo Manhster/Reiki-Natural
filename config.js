@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Reiki Natural RN', // <title>
-  manifestName: 'Reiki Natural',
+  manifestName: 'SolidState',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: 'reikinaturalrn.com',
   manifestBackgroundColor: '#663399',
