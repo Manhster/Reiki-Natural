@@ -20,4 +20,5 @@ module.exports = {
   ],
   phone: '(503) 502-7347',
   address: '11959 SW Garden PL, Portland, OR 97223',
+ 
 };
