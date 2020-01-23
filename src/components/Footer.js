@@ -8,7 +8,7 @@ export default function Footer() {
         <p>
           Please contact us to schedule an appointment or to inquire more about Reiki and services available.
         </p>
-        <form name="contact" method="POST" data-netlify="true">
+        <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
   <p>
     <label>Name: <input type="text" name="name" /></label>   
   </p>
@@ -18,8 +18,9 @@ export default function Footer() {
   <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
+  <div data-netlify-recaptcha="true"></div>
   <p>
-    <button type="submit" data-netlify-recaptcha="true">Send Message</button>
+    <button type="submit" >Send Message</button>
   </p>
 </form>
 
