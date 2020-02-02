@@ -8,7 +8,8 @@ export default function Footer() {
         <p>
           Please contact us to schedule an appointment or to inquire more about Reiki and services available.
         </p>
-        <form action="Thank-You" name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" netlify>  
+        
+        <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" data-netlify-recaptcha="true" netlify>  
         <p>
         <label>Your Name: <input type="text" name="name" /></label>   
         </p>
@@ -23,6 +24,7 @@ export default function Footer() {
             <button type="submit">Send</button>
         </p>
         </form>
+
 
         <ul className="contact">
           <li className="fa-home">{config.address}</li>
