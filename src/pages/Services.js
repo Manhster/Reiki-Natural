@@ -115,6 +115,13 @@ const IndexPage = () => <Layout fullMenu>
             </article>
           </section>
 
+		  <section>
+						<center><h3 className="major">Love Reiki and Want Learn More?</h3>
+								<ul className="alt">
+									<li> Currrently offering 1/2 classes and will teach master classes soon. Please contact us below for more details.</li>
+								</ul></center>
+					</section>
+
 				</div>
 			</div>
 
