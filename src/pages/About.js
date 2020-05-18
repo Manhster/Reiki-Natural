@@ -11,7 +11,7 @@ const IndexPage = () => (
     <section id="wrapper">
       <header>
         <div className="inner">
-        <h2>About Merrelie Dowrie</h2>
+        <h2>About Merrilee Dowrie</h2>
 				<p>Helping People Heal or Better themselves is my Life's Universal Contribution</p>
 			</div>
       </header>
