@@ -142,7 +142,7 @@ const IndexPage = () => <Layout fullMenu>
 
 								<h6>: DISCLAIMER : </h6>
 								<h5><ul className="alt">
-									<li>Reiki is a positive additional lifestyle treatment or practice that is intended to help calm the mind, collect and naturally guild the body through its natural healing powers. Reiki treatments or sessions are not intended to be a substitute for medicine or alternative treatment for major illness or injuries. Proper diagnosis or treatment by a licensed doctor or physician is still advised for any major illness or injuries. </li>
+									<li>Reiki is a positive additional lifestyle treatment or practice that is intended to help calm the mind, collect and naturally guild the body through its natural healing powers. Reiki treatments or sessions are NOT intended to be a substitute for medicine or alternative treatment for major illness or injuries. Proper diagnosis or treatment by a licensed doctor or physician is still advised for any major illness or injuries. </li>
 								</ul></h5>
 					</section>
 

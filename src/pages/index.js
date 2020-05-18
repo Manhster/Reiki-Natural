@@ -48,10 +48,11 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">About Merrilee Dowrie</h2>
             <p>
-            Registered nurse since 2004. Specializing in medical surgical, cardiac, kidney transplants, strokes, and epilepsy monitoring. 
-            Extending my love for helping others recover or healing, Merrilee became a Reiki practitioner back in December of 2018. 
-            To assist further those skillsets, Merrilee also have a second degree in Usui/Holy Fire 3 Certified. 
-            Merrilee Briggs-Dowrie holds first and Second Degree Reiki.
+            Merrilee has been a registered nurse since 2004, specializing in medical surgical, cardiac, kidney transplants, strokes, and epilepsy monitoring. 
+            To further extending her love and knowledge for better health, along with the desire for helping others, Merrilee became a her love for Reiki practitioner
+            in 2018, with a goal to helping people achieve living their highest positive energy in life.
+            Merrilee Dowrie is a proud member of the NW Reiki Association and professional member of ICRT (International Center for Reiki Training).
+            Certified Usui/Holy Fire III® Reiki Master Teacher, as well holds a first and Second Degree Reiki.
             </p>
             <a href="/About" className="special">
               Learn more
