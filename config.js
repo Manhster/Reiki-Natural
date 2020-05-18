@@ -15,7 +15,17 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:info@reikinaturalrn.com',
+      url: 'mailto:reikinaturalrn@gmail.com',
+    },
+    {
+      icon: 'fa-facebook',
+      name: 'Facebook',
+      url: 'https://www.facebook.com/reikinaturalrn/',
+    },
+    {
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/magicbymerrilee/',
     },
   ],
   phone: '(503) 502-7347',
