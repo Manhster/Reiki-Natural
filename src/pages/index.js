@@ -28,7 +28,7 @@ const IndexPage = () => (
             <img src={pic1} alt="" />
           </a>
           <div className="content">
-            <h2 className="major">Reiki Into and History</h2>
+            <h2 className="major">Reiki Intro and History</h2>
             <p>
             The word Reiki is made of two Japanese words - Rei which means "God's Wisdom or the Higher Power" and Ki which is "life force energy". So Reiki is actually "spiritually guided life force energy."
             Reiki is a form of alternative therapy commonly referred to as energy healing. It emerged in Japan in the late 1800's and is said to involve the transfer of universal energy from the practitioner's palms to their patient.
@@ -52,7 +52,7 @@ const IndexPage = () => (
             To further extending her love and knowledge for better health, along with the desire for helping others, Merrilee became a her love for Reiki practitioner
             in 2018, with a goal to helping people achieve living their highest positive energy in life.
             Merrilee Dowrie is a proud member of the NW Reiki Association and professional member of ICRT (International Center for Reiki Training).
-            Certified Usui/Holy Fire III® Reiki Master Teacher, as well holds a first and Second Degree Reiki.
+            Certified Usui/Holy Fire III® Reiki Master Teacher. As well holds a First and Second Degree Reiki.
             </p>
             <a href="/About" className="special">
               Learn more
