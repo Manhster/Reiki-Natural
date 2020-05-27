@@ -23,7 +23,7 @@ const IndexPage = () => (
         <div className="inner">
         <section>
 						<h4>To Self-Heal, Balance of the body and Mind is Key.</h4>
-						<blockquote>Reiki is a form of alternative therapy commonly referred to as energy healing. It emerged in Japan in the late 1800's and is said to involve the transfer of universal energy from the practitioner's palms to their patient.</blockquote>
+						<blockquote>Reiki is a form of therapy commonly referred to as energy healing. It emerged in Japan in the late 1800's and is said to involve the transfer of universal energy from the practitioner's palms to their patient.</blockquote>
 					</section>
           <h2 className="major">Reiki History</h2>
           <p><span className="image left"><img src={pic11} alt="" /></span>Reiki was developed in the mid-1800s by Dr. Mikao Usui, The history of Usui Reiki begins with its founder, Dr. Mikao Usui. Sometimes called the Usui Sensei, Dr. Mikao Usui was born to a wealthy Buddhist family in 1865. Dr. Usui’s family was able to give their son a well-rounded education for the time. As a child, Dr. Usui studied in a Buddhist monastery where he was taught martial arts, swordsmanship, and the Japanese form of Chi Kung, known as Kiko.</p>

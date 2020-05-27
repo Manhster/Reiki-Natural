@@ -31,7 +31,7 @@ const IndexPage = () => (
             <h2 className="major">Reiki Intro and History</h2>
             <p>
             The word Reiki is made of two Japanese words - Rei which means "God's Wisdom or the Higher Power" and Ki which is "life force energy". So Reiki is actually "spiritually guided life force energy."
-            Reiki is a form of alternative therapy commonly referred to as energy healing. It emerged in Japan in the late 1800's and is said to involve the transfer of universal energy from the practitioner's palms to their patient.
+            Reiki is a form of therapy commonly referred to as energy healing. It emerged in Japan in the late 1800's and is said to involve the transfer of universal energy from the practitioner's palms to their patient.
             </p>
             <a href="/Reiki" className="special">
               Learn more
