@@ -52,7 +52,7 @@ const IndexPage = () => (
             To further extending her love and knowledge for better health, along with the desire for helping others, Merrilee became a her love for Reiki practitioner
             in 2018, with a goal to helping people achieve living their highest positive energy in life.
             Merrilee Dowrie is a proud member of the NW Reiki Association and professional member of ICRT (International Center for Reiki Training).
-            Certified Usui/Holy Fire III® Reiki Master Teacher. As well holds a First and Second Degree Reiki.
+            Certified Usui/Holy Fire III® Reiki Master Teacher. As well holds a First and Second Degree Reiki; 1/2 certification is in Usui/Tibetan Reiki Ryoho.
             </p>
             <a href="/About" className="special">
               Learn more
