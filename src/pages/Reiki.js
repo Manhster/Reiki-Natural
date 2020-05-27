@@ -59,6 +59,8 @@ const IndexPage = () => (
 
             <p><br></br></p>
 
+            
+
           <h2 className="major">Health Benefits</h2>
           <p>
           Mind and Body work and responds as one, positively charging that mind can help heal that body. Some of the health bennifits that Reiki can provide is essential to decompress living and thriving for a healthier natural life.
@@ -90,6 +92,10 @@ const IndexPage = () => (
               </a>
             </article>
           </section>
+          <h6 className="major">: DISCLAIMER : </h6>
+								<h5><ul className="alt">
+									<li>Reiki treatments or sessions are NOT intended to be a substitute for medicine or alternative treatment for major illness or injuries. Proper diagnosis or treatment by a licensed doctor or physician is still advised for any major illness or injuries. </li>
+								</ul></h5>
         </div>
       </div>
     </section>

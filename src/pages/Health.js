@@ -140,9 +140,9 @@ const IndexPage = () => <Layout fullMenu>
 									<li>Reiki is a wonderful compliment to conventional medicine and helps relax patients on the levels of the mind and physical body. When a patient is relaxed the healing, process is accelerated. People sleep much better and are calmer following Reiki treatments. The beauty of Reiki is that it is noninvasive and is administered in a very gentle manner. The Reiki practitioner can give Reiki without touching the body in cases where patients have burns or major injuries. Reiki is safe to use if you have medical conditions such as epilepsy, diabetes or heart conditions. You may receive Reiki treatments if you are undergoing chemotherapy. Pregnant woman can have Reiki treatments to support them through all stages of the pregnancy. Reiki is for everyone! </li>
 								</ul>
 
-								<h6>: DISCLAIMER : </h6>
+								<h6 className="major">: DISCLAIMER : </h6>
 								<h5><ul className="alt">
-									<li>Reiki treatments or sessions are NOT intended to be a substitute for medicine or alternative treatment for major illness or injuries. Proper diagnosis or treatment by a licensed doctor or physician is still advised for any major illness or injuries. Reiki is a positive additional lifestyle treatment or practice that is intended to help calm the mind, collect and naturally guild the body through its natural healing powers. </li>
+									<li>Reiki treatments or sessions are NOT intended to be a substitute for medicine or alternative treatment for major illness or injuries. Proper diagnosis or treatment by a licensed doctor or physician is still advised for any major illness or injuries. Reiki should be utilized only as a positive complimentary lifestyle treatment or practice that is intended to help calm the mind, collect and naturally guild the body through its natural healing powers. </li>
 								</ul></h5>
 					</section>
 
