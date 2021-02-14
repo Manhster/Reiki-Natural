@@ -54,7 +54,7 @@ const IndexPage = () => <Layout fullMenu>
 					<section>
 						<h3 className="major">Private Reiki Appointment Information</h3>
 								<ul className="alt">
-									<li> Providing energy healing through Reiki-also called hands on healing or energy work-to improve health and wellness of the mind, body and spirit. 1 hour Starting at $59.99 </li>
+									<li> Providing energy healing through Reiki-also called hands on healing or energy work-to improve health and wellness of the mind, body and spirit. 1 hour Starting at $75.00 </li>
 								</ul>
 					</section>
 					<section>
@@ -72,22 +72,22 @@ const IndexPage = () => <Layout fullMenu>
 									<tr>
 										<td>Reiki session 1 of 3</td>
 										<td>First hour</td>
-										<td>$59.99</td>
+										<td>$75.00</td>
 									</tr>
 									<tr>
 										<td>Reiki session 2 of 3</td>
 										<td>2nd session of 3 pack, 1 hour 3 pack</td>
-										<td>$59.99</td>
+										<td>$75.00</td>
 									</tr>
 									<tr>
 										<td>Reiki session 3 of 3</td>
 										<td>3rd session of 3 pack, 1 hour Paid 3rd of 3</td>
-										<td>$59.99</td>
+										<td>$75.00</td>
 									</tr>
 									<tr>
 										<td>Reiki healing 3 pack</td>
-										<td>3 one hour sessions for $150 ($30 off 3!) </td>
-										<td>$150.00</td>
+										<td>3 one hour sessions for $200.00 ($25 off 3!) </td>
+										<td>$200.00</td>
 									</tr>
 								</tbody>
 							</table>
